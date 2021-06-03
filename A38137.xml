@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three declarations first, the declaration of the Lords and Commons assembled in Parliament vvith His Maiesties answer thereunto : secondly, a declaration and protestation agreed upon by the Grand Iury at the assizes held for the county of Worcester the third day of August, 1642 ... : thirdly the declaration of the Isle of Wight to the King and Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38137</idno><idno type="EEBO-CITATION">10693589</idno>
+  <idno type="VID">45508</idno>
+  <idno type="EEBO-PROQUEST">2240883010</idno>
+  
+            <idno type="STC">Wing E2357</idno>
+            <idno type="STC">ESTC R28606</idno>
+            <idno type="OCLC">10693589</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45508)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1401:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three declarations first, the declaration of the Lords and Commons assembled in Parliament vvith His Maiesties answer thereunto : secondly, a declaration and protestation agreed upon by the Grand Iury at the assizes held for the county of Worcester the third day of August, 1642 ... : thirdly the declaration of the Isle of Wight to the King and Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"First printed at Yorke."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45508:1"/>
+            <pb facs="tcp:45508:1"/>
+            <p>THREE DECLARATIONS, FIRST, THE DECLARATION of the Lords and Commons assem<g ref="char:EOLhyphen"/>bled in <hi>Parliament.</hi> VVith <hi>His MAJESTIES ANSWER</hi> thereunto. SECONDLY, A declaration and Protestation a<g ref="char:EOLhyphen"/>greed upon by the Grand Iury at the Assizes held for the County of <hi>Worcester,</hi> the third day of <hi>August,</hi> 1642. and assented unto by the High Sheriffe, the Lord <hi>Coventry,</hi> the Barons, Knights, Justices of the Peace, Gentlemen and Freeholders of the County of <hi>WORCESTER</hi> aforesaid. Thirdly, The Declaration of the Isle of <hi>Wight</hi> to the <hi>KING</hi> and PARLIAMENT.</p>
+            <p>First Printed at <hi>Yorke,</hi> and now Reprinted at <hi>London, September</hi> 17. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declarations">
+            <pb facs="tcp:45508:2"/>
+            <pb n="1" facs="tcp:45508:2"/>
+            <div type="declaration">
+               <head>A DECLARATION OF the Lords and Commons as<g ref="char:EOLhyphen"/>sembled in <hi>Parliament.</hi>
+               </head>
+               <p>WHereas the King, seduced by wicked Counsell, doth make Warre against His Parliament and people; And for the promoting of that War, divers Forces both of Horse and Foot have been, and are leavied and raised by severall persons, and His Majesties good Subjects are most cruelly robbed, spoiled, and slaine.</p>
+               <p>To the end that no man may be misled through ignorance, the Lords and Commons declare, That all such persons as shall upon any pretence whatsoever, assist His Majesty in this War, with Horse, Arms, Plate, or Money, are Traitors to His Majesty, the Parliament, and the Kingdome, and shall be brought to condigne punishment for so high an offence.</p>
+               <closer>
+                  <signed>Hen. Elsyng. Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <div type="answer">
+               <head>His MAIESTIES Answer to the aforesaid Declaration.</head>
+               <p>VVHereas a late Printed Paper, intituled a Declaration of the Lords and Commons, hath beene published and dispersed, whereby most presumptuously, and treasona<g ref="char:EOLhyphen"/>bly, all such persons are declared to be Traitors to Vs and the
+<pb n="2" facs="tcp:45508:3"/> Kingdome who shall assist Vs in Our necessary Defence, with Horse, Armes, Plate, or Money; Wee hope and are confident, that all Our good Subjects will with great Indignation looke on the Malice, Impu<g ref="char:EOLhyphen"/>dence, and Folly of that Declaration as proceeding from the Venome of such men, who can ayme at nothing but a generall Confusion of all Religion, Law, and private Interest: For, what Law can be in Force, when it shal be declared, That such who endeavour to preserve Vs from the Force and Violence of th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se who would murther Vs, are Traytors? VVe tell all the VVorld, and all men know, that whosoever Levies Warre against the Kings Person are Traitors, by the known Statute of the 25. yeare of King <hi>Edward</hi> the third. Let these men informe Our People, by what Law they are Traitors who assist Us for Our Defence: Except they can do that, (as every man knows they cannot) Our good Subjects will be no more affrighted from their Allegiance by such De<g ref="char:EOLhyphen"/>clarations, then they will from their Religion, if these men should de<g ref="char:EOLhyphen"/>clare them to be Turks for observing the Booke of Common-Prayer, or submitting to the Government of the Church, both which are equally grievous to these men, as Our just Power. And whosoever conceives himselfe to be bound by any oathes, for which he must answer to Al<g ref="char:EOLhyphen"/>mighty God, how ever he may escape the Judgement of the Law, will confesse himselfe bound by those of Allegiance and Supremacie, to assist Us at this present with Men, Horse, Plate, Money, or any way he shall be able: And whosoever values the Protestant Religion, the Law and Liberty of the Kingdome, and the freedome and being of Parlia<g ref="char:EOLhyphen"/>ments, will joyne in that assistance; and all such shall be as carefully Protected and Defended by Us, as Our own Life, Our Crown, or Our dearest Children. And We do hereby declare, That all such Persons as shall by pretence of any Authority whatsoever, assist the Earle of <hi>Essex</hi> in this Rebellion against Us, with Horse, Arms, Plate, Money, or any other way, are Traitors by the known Law of the Land, and by Gods helpe, We doubt not in time, they will be brought to con<g ref="char:EOLhyphen"/>digne punishment.</p>
+            </div>
+            <div type="declaration">
+               <pb n="3" facs="tcp:45508:3"/>
+               <head>THE DECLARATION And Protestation agreed upon by the Grand Iury at the Assizes held for the County of <hi>Wor<g ref="char:EOLhyphen"/>cester,</hi> the third day of <hi>August,</hi> 1642.</head>
+               <p>WE do with all thankfulnesse, acknowledge our selves very sensible of those sundry good Lawes which through His Majesties great Grace and Goodnesse, have been obtained for us this Parliament. And we do no lesse rejoyce in His Majesties Pious and tender care repeated by His gracious Declarations in print, and expres<g ref="char:EOLhyphen"/>sions by letter read unto us, and all the County at this Assizes, in open Court, to defend and maintaine the true PROTESTANT RELIGION by Law established, against Popish Recusants, Anabaptists, and all other Sepera<g ref="char:EOLhyphen"/>tists. And that the Laws of the Land shall be the Rule of His Majesties Government, whereby the Subjects Liberty and Property is defended: And that His Majesty will preserve the freedom and just priviledge of Parliament, with all which promises and expressions we are so abundantly satisffed, that we do not any way distrust His Majesties Constancy in these Resolutions. And we do declare, that we will be ready to attend His Majesty in all lawfull ways, for the putting of the County in a posture of Arms, for the defence of His Majesty, and the peace of His Kingdomes. Therefore we do resolve, according to our oathes of Supremacy and Allegiance, and late Protestation, to adventure our lives and fortunes in de<g ref="char:EOLhyphen"/>fence
+<pb n="4" facs="tcp:45508:4"/> of His Majesties Royall Person and Honour, and the just Rights and Priviledges of Parliament, and the knowne Laws of the Land, and Liberties of the Subjects, That there<g ref="char:EOLhyphen"/>by the Distractions and Disturbances of His Majesties King<g ref="char:EOLhyphen"/>doms may be reduced to His Majesties Legall Government. And whereas the Grand Iury at the last Sessions, delivered a Petition, thereby desiring the exercising of the <hi>Militia,</hi> we utterly disavow it, as not agreeable to the intents or desires of us, or any considerable number of the said County. And we do hereby declare, that by the information which we have received from severall of the persons then of the Grand Iury, that it was not of their own framing, but contrived and pre<g ref="char:EOLhyphen"/>pared for them by some few persons, not well affected to the peace and quiet of this County.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>THo. Coventry.</hi>
+                        </item>
+                        <item>
+                           <hi>Ed. Vernon.</hi> Vic. Com.</item>
+                        <item>
+                           <hi>Iohn Washbourne.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Steynor.</hi>
+                        </item>
+                        <item>
+                           <hi>Ed. Littleton.</hi>
+                        </item>
+                        <item>
+                           <hi>Ed. Solley</hi> Major.</item>
+                        <item>
+                           <hi>Henry Foord,</hi> Vic.</item>
+                        <item>
+                           <hi>Iohn Packington.</hi>
+                        </item>
+                        <item>
+                           <hi>William Russell.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Herbert.</hi>
+                        </item>
+                        <item>
+                           <hi>Row. Berkley.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Hambury.</hi>
+                        </item>
+                        <item>
+                           <hi>George Street.</hi>
+                        </item>
+                        <item>
+                           <hi>Francis Hincley.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Slantan.</hi>
+                        </item>
+                        <item>
+                           <hi>Iames Littleton.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Ingram.</hi>
+                        </item>
+                        <item>
+                           <hi>Ioseph Walshe.</hi>
+                        </item>
+                        <item>
+                           <hi>Sam. Sandys.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Wy<gap reason="illegible" resp="#oxf" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Townshead.</hi>
+                        </item>
+                        <item>
+                           <hi>Ed. Burret.</hi>
+                        </item>
+                        <item>
+                           <hi>Nich. Gower.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Fleet.</hi>
+                        </item>
+                        <item>
+                           <hi>George Savage.</hi>
+                        </item>
+                        <item>
+                           <hi>George <gap reason="illegible" resp="#oxf" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ymonds.</hi>
+                        </item>
+                        <item>
+                           <hi>Ed. Dingley.</hi>
+                        </item>
+                        <item>
+                           <list>
+                              <item>
+                                 <hi>Anthony Palmer</hi>
+                              </item>
+                              <item>
+                                 <hi>Vrban Eyre.</hi>
+                              </item>
+                           </list> Coronet.</item>
+                        <item>
+                           <hi>Francis Walker,</hi> Cler.</item>
+                        <item>
+                           <list>
+                              <item>
+                                 <hi>Iohn Baion.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Hunt.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ed. Emes.</hi>
+                              </item>
+                           </list>
+                           <hi>Constables Capital.</hi>
+                        </item>
+                        <item>The Grand Iury of the County of <hi>WORCESTER.</hi>
+                        </item>
+                        <item>
+                           <hi>Mar. Sandys.</hi>
+                        </item>
+                        <pb n="5" facs="tcp:45508:4"/>
+                        <item>
+                           <hi>Tho. Childe.</hi>
+                        </item>
+                        <item>
+                           <hi>Phil. Brace.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Dyccins</hi>
+                        </item>
+                        <item>
+                           <hi>Fran. Sheldon.</hi>
+                        </item>
+                        <item>
+                           <hi>Io. Ewett.</hi>
+                        </item>
+                        <item>
+                           <hi>William Cliffe.</hi>
+                        </item>
+                        <item>
+                           <hi>I. Clent.</hi>
+                        </item>
+                        <item>
+                           <hi>Ed. Brode.</hi>
+                        </item>
+                        <item>
+                           <hi>Ed. Davies.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Chetle.</hi>
+                        </item>
+                        <item>
+                           <hi>George Middlemore.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Sanders.</hi>
+                        </item>
+                        <item>
+                           <hi>William Muckland.</hi>
+                        </item>
+                        <item>The Grand Iury of the County of the <hi>CITIE.</hi>
+                        </item>
+                        <item>
+                           <hi>William Taylor.</hi>
+                        </item>
+                        <item>
+                           <hi>Francis Hughes.</hi>
+                        </item>
+                        <item>
+                           <hi>George Brooke.</hi>
+                        </item>
+                        <item>
+                           <hi>Philip Davis.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Lysons.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Pomfrey.</hi>
+                        </item>
+                        <item>
+                           <hi>Rich. Sharman.</hi>
+                        </item>
+                        <item>
+                           <hi>Francis Sharman.</hi>
+                        </item>
+                        <item>
+                           <hi>William Gibbes.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Rea.</hi>
+                        </item>
+                        <item>
+                           <hi>Hen. Smith.</hi>
+                        </item>
+                        <item>
+                           <hi>Thom. Hill.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Sollers.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="declaration">
+               <head>The Declaration of the Isle of <hi>Wight,</hi> to the KING and PARLIAMENT. <hi>August</hi> 18. 1642.</head>
+               <p>VVE the Deputie Lievetenants and Iustices, the Knights &amp; Gentlemen of this Isle of Wight, whose Hands are underwritten, have thought it our Duty to God, to our Soveraign, Lord the King, and to His Parliament: Upon Rumours now spread amongst us, of tumults likewise to arise in this Kingdome, to declare to the rest of the inhabitants of this Island, and to all others of His Majesties Dominions as followeth. First that we will with our lives and estates, be assistant to each o<g ref="char:EOLhyphen"/>ther in the defence of the true Protestant Religion established in the Church of England, against all Papists, or other ill af<g ref="char:EOLhyphen"/>fected Persons whatsoever.</p>
+               <pb n="6" facs="tcp:45508:5"/>
+               <p>That we will unanimously joyne the uttermost of our en<g ref="char:EOLhyphen"/>deavours, for the Peace of this Island, by protecting it by those Forces already legally substituted amongst us, and will admit no Forraigne Power, or Forces, or new Government; except his Majestie by advice of His Parliament: upon oc<g ref="char:EOLhyphen"/>cassions that may arise, shall thinke it necessary to alter it in a<g ref="char:EOLhyphen"/>ny particulers, for the good and safety of the Kingdome. Dated t<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e 18. day of <hi>August.</hi> 1642.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>IOhn Oglander.</hi>
+                        </item>
+                        <item>
+                           <hi>William Hopkins.</hi>
+                        </item>
+                        <item>
+                           <hi>William Bowreman.</hi>
+                        </item>
+                        <item>
+                           <hi>Stephen March.</hi>
+                        </item>
+                        <item>
+                           <hi>Brutus Bucke.</hi>
+                        </item>
+                        <item>
+                           <hi>Humphrey Turney.</hi>
+                        </item>
+                        <item>
+                           <hi>Ier. Bret.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Knollys.</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Dillington Iunior.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Leigh.</hi>
+                        </item>
+                        <item>
+                           <hi>Edw. Morseley.</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Leigh.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Dillington.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Leigh.</hi>
+                        </item>
+                        <item>
+                           <hi>William Oglander.</hi>
+                        </item>
+                        <item>
+                           <hi>Bartholmew Burley.</hi>
+                        </item>
+                        <item>
+                           <hi>Edw. Leigh.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Meux.</hi>
+                        </item>
+                        <item>
+                           <hi>Nicholas Weston.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Richards.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Burley.</hi>
+                        </item>
+                        <item>
+                           <hi>Barthol. Leigh.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45508:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
